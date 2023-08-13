@@ -1,0 +1,213 @@
+[{
+    "id":"1",
+    "Name": "Nabadwip State General Hospital Blood Centre",
+    "Phone": "9733022688",
+    "Email": "nsghbloodbank@gmail.com",
+    "location": "kalyani",
+    "Catogery": "Nadia",
+
+
+    "A+ve": "10",
+    "B+ve": "6",
+    "AB+ve": "0",
+    "A-ve": "10",
+    "B-ve": "0",
+    "AB-ve": "0",
+    "O+ve": "4",
+    "O-ve": "0"
+
+},
+
+    {
+        "id":"2",
+        "Name": "College Of Medicine & Jawaharlal Nehru Memorial Hospital Blood Centre",
+        "Phone": "9433792699",
+        "Email": "com.jnm.bb.1996@gmail.com",
+        "location": "kalyani",
+        "Catogery": "Nadia",
+    
+    
+        "A+ve": "11",
+        "B+ve": "0",
+        "AB+ve": "5",
+        "A-ve": "10",
+        "B-ve": "0",
+        "AB-ve": "0",
+        "O+ve": "0",
+        "O-ve": "0"
+    
+    },
+    {
+        "id":"3",
+        "Name": "Tehatta SDH Blood Centre",
+        "Phone": "9800671828",
+        "Email": "tsdhbb2019@gmail.com",
+        "location": "Tehattai",
+        "Catogery": "kalyani",
+    
+    
+        "A+ve": "9",
+        "B+ve": "0",
+        "AB+ve": "4",
+        "A-ve": "10",
+        "B-ve": "0",
+        "AB-ve": "2",
+        "O+ve": "8",
+        "O-ve": "0"
+    
+    },
+    {
+        "id":"4",
+        "Name": "Ranaghat S. D. Hospital Blood Centre",
+        "Phone": "7477629944",
+        "Email": "ranaghatbloodbank@gmail.com",
+        "location": "Ranaghat",
+        "Catogery": "Nadia",
+    
+    
+        "A+ve": "12",
+        "B+ve": "0",
+        "AB+ve": "09",
+        "A-ve": "1",
+        "B-ve": "0",
+        "AB-ve": "2",
+        "O+ve": "5",
+        "O-ve": "1"
+    
+    },
+    {
+        "id":"4",
+        "Name": "Nadia District Hospital Blood Centre",
+        "Phone": "7719381913",
+        "Email": "saktinagarbloodbank@gmail.com",
+        "location": "Krishnanagar",
+        "Catogery": " Nadia",
+    
+    
+        "A+ve": "1",
+        "B+ve": "0",
+        "AB+ve": "6",
+        "A-ve": "10",
+        "B-ve": "12",
+        "AB-ve": "4",
+        "O+ve": "12",
+        "O-ve": "3"
+    
+    },
+    {
+        "id":"5",
+        "Name": "Gandhi Memorial Hospital Blood Centre",
+        "Phone": "9433915014",
+        "Email": "gmh.bb2018@gmail.com",
+        "location": "kalyani",
+        "Catogery": "Nadia",
+    
+    
+        "A+ve": "1",
+        "B+ve": "2",
+        "AB+ve": "0",
+        "A-ve": "12",
+        "B-ve": "4",
+        "AB-ve": "0",
+        "O+ve": "1",
+        "O-ve": "4"
+    
+    },
+    {
+        "id":"6",
+        "Name": "Barasat Cancer Research And Welfare Centre",
+        "Phone": "9051255379",
+        "Email": "ancerbarasat@hotmail.com",
+        "location": "Banamalipur",
+        "Catogery": "Kolkata",
+    
+    
+        "A+ve": "9",
+        "B+ve": "2",
+        "AB+ve": "4",
+        "A-ve": "11",
+        "B-ve": "0",
+        "AB-ve": "10",
+        "O+ve": "5",
+        "O-ve": "5"
+    
+    },
+    
+
+
+{
+    "id":"7",
+    "Name": "B.M. Birla Heart Research Centre Blood Centre",
+    "Phone": " 03330403112",
+    "Email": "bloodbank@birlaheart.org",
+    "location": "National Library Avenue",
+    "Catogery": "kalyani",
+
+
+    "A+ve": "0",
+    "B+ve": "0",
+    "AB+ve": "0",
+    "A-ve": "11",
+    "B-ve": "0",
+    "AB-ve": "0",
+    "O+ve": "7",
+    "O-ve": "1"
+
+},
+{
+    "id":"8",
+    "Name": "Institute Of Child Health Blood Centre",
+    "Phone": "7418596",
+    "Email": "chbb.kol@gmail.com",
+    "location": "Biresh Guha Street",
+    "Catogery": "Kolkata",
+
+
+    "A+ve": "4",
+    "B+ve": "2",
+    "AB+ve": "1",
+    "A-ve": "14",
+    "B-ve": "2",
+    "AB-ve": "0",
+    "O+ve": "5",
+    "O-ve": "1"
+
+},
+{
+    "id":"9",
+    "Name": "Ramkrishna Mission Seva Prathisthan Blood Centre",
+    "Phone": "9903330940",
+    "Email": "rkmspsm@gmail.com",
+    "location": "99 Sarat Bose Road",
+    "Catogery": "Kolkata",
+
+
+    "A+ve": "9",
+    "B+ve": "1",
+    "AB+ve": "3",
+    "A-ve": "1",
+    "B-ve": "0",
+    "AB-ve": "0",
+    "O+ve": "3",
+    "O-ve": "1"
+
+},
+{
+    "id":"10",
+    "Name": "Om Blood Centre",
+    "Phone": "8479919177",
+    "Email": "ombloodbankkolkata@gmail.com",
+    "location": "BELIAGHATA ROAD (OPPOSITE TO BELEGHATA SALE TAX OFFICE",
+    "Catogery": "Kolkata",
+
+
+    "A+ve": "10",
+    "B+ve": "7",
+    "AB+ve": "0",
+    "A-ve": "1",
+    "B-ve": "0",
+    "AB-ve": "6",
+    "O+ve": "0",
+    "O-ve": "0"
+
+}]
